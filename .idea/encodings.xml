@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/bad_texts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_worker.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/get_kinopoisk.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/good_texts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hashes" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/neutral_texts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/word_processing.py" charset="UTF-8" />
+  </component>
+</project>
